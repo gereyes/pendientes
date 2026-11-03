@@ -1,8 +1,9 @@
 {
   "name": "pendientes",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "description": "Lista de pendientes por proyecto que no se pierde entre chats, con panel y bitácora que no se reescribe",
   "author": { "name": "gereyes" },
   "license": "MIT",
-  "types": "./types/index.d.ts"
+  "types": "./types/index.d.ts",
+  "icon": "./assets/icon.png"
 }

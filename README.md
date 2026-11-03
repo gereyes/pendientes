@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/icon.png" alt="" width="96">
+
 # Pendientes
 
 **Lo que queda por hacer en cada proyecto, en una lista que no se pierde entre chats.**
