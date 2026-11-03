@@ -1,0 +1,6 @@
+{
+  "name": "pendientes",
+  "description": "Mod de Claude Code que lleva la lista de pendientes de cada proyecto",
+  "owner": { "name": "gereyes" },
+  "plugins": [{ "name": "pendientes", "source": "./" }]
+}
